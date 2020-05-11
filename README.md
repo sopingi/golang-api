@@ -1,2 +1,2 @@
-# golang-api
+# golang-api by sopingi.com
  
